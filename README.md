@@ -13,8 +13,8 @@ I'm a Frontend Developer with a relentless passion for fast learning and continu
 ### Contact Information
 - Email: yagrifurkan@gmail.com
 - LinkedIn: [Furkan Yağrı](https://www.linkedin.com/in/furkanyagri/)
-- Twitter: [[@FrknYgr](https://twitter.com/FrknYgr)]
-- Instagram: [[@frknygr1](https://www.instagram.com/frknygr1/)]
+- Twitter: |[@FrknYgr](https://twitter.com/FrknYgr)|
+- Instagram: |[@frknygr1](https://www.instagram.com/frknygr1/)|
 
 "You can reach out to me for your questions, project collaborations, and job opportunities through my contact information."
 
